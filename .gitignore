@@ -1,0 +1,6 @@
+**/.DS_Store
+v.idea
+*.log
+tmp/
+public/
+

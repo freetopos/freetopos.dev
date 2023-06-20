@@ -1,0 +1,24 @@
+base_url = "https://freetopos.dev"
+title = "freetopos"
+build_search_index = false
+generate_feed = true
+compile_sass = true
+minify_html = true
+theme = "apollo"
+
+[markdown]
+highlight_code = true
+
+[extra]
+theme = "toggle"
+mathjax = true
+mathjax_dollar_inline_enable = true
+
+socials = [
+  { name = "github", icon = "github", url = "https://github.com/freetopos" }
+]
+
+menu = [
+  { name = "home", url = "/"},
+  { name = "blog", url = "/blog" },
+]
