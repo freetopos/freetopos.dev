@@ -1,4 +1,4 @@
-base_url = "https://freetopos.dev"
+base_url = "https://freetopos.github.io"
 title = "freetopos"
 build_search_index = false
 generate_feed = true
