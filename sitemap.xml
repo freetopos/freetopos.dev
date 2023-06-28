@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://freetopos.com/</loc>
+    </url>
+    <url>
+        <loc>https://freetopos.com/blog/</loc>
+    </url>
+    <url>
+        <loc>https://freetopos.com/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://freetopos.com/blog/rust-by-comparison/</loc>
+        <lastmod>2019-08-29</lastmod>
+    </url>
+</urlset>
